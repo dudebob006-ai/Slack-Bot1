@@ -1,3 +1,4 @@
+// My Slack Bot
 require('dotenv').config();
 const { App } = require('@slack/bolt');
 
